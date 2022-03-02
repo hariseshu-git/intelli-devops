@@ -1,6 +1,5 @@
-
 Hello World. Added here
 Added this to check the files in commit with my remote repo.
 Added one more line
-
-Nice to add more!!
+Nice to add more!! This text is not on committed area
+Checking if I can directly commit a file from local repo without having to type add command.
