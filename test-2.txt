@@ -1,0 +1,3 @@
+Added text again.
+This was in staging area while adding the text.
+New text again.
