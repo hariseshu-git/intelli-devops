@@ -1,6 +1,6 @@
-Welcome to my world.
+
 Hello World. Added here
-Added this to check the files in commit with the remote repo.
-Added one more line to check the same.
-Check the files in staging area.
+Added this to check the files in commit with my remote repo.
+Added one more line
+
 Nice to add more!!
